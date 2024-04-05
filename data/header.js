@@ -3,7 +3,7 @@ const data = {
     name: "Ahsan Malik",
     jobTitle: "full stack Web Developer",
     address: "Sahiwal, pakistan",
-    experiance: "fresher",
+    experiance: "1 year experaice",
     education: "BS Computer Science",
   };
   export default data;
