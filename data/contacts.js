@@ -15,7 +15,7 @@ const data = [
     id: 3,
     name: "linkedin",
     label: "linkedin",
-    link: "http://linkedin.com/username",
+    link: "https://www.linkedin.com/in/ahsan-malik-21b361229/",
   },
   {
     id: 4,
@@ -27,7 +27,7 @@ const data = [
     id: 5,
     name: "instagram",
     label: "instagram",
-    link: "http://instagram.com/username",
+    link: "http://instagram.com/___.a7n",
   },
   {
     id: 6,
@@ -39,19 +39,19 @@ const data = [
     id: 7,
     name: "behance",
     label: "behance",
-    link: "http://behance.com/username",
+    link: "https://www.behance.net/ahsanmalik38",
   },
   {
     id: 8,
     name: "medium",
     label: "medium",
-    link: "http://medium.com/username",
+    link: "https://ashdevi.medium.com/",
   },
   {
     id: 9,
     name: "email",
     label: "email",
-    link: "mailto:email@gmail.com",
+    link: "mailto:malikmalku555@gmail.com",
   },
   {
     id: 10,
