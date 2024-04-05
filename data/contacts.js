@@ -3,7 +3,7 @@ const data = [
     id: 1,
     name: "github",
     label: "github",
-    link: "http://github.com/username",
+    link: "https://github.com/Ahsanmalik777",
   },
   {
     id: 2,
