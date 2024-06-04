@@ -57,7 +57,7 @@ const data = [
     id: 10,
     name: "cv",
     label: "download cv",
-    link: "/files/cv.pdf",
+    link: "http://myresume/",
   },
 ];
 export default data;
